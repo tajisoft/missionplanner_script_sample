@@ -1,0 +1,1 @@
+print cs.is_armable
